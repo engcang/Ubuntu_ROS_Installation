@@ -4,18 +4,18 @@
 
 ## Installation and setup
 + Install ROS package
-  ~~~
+  ~~~shell
   $ sudo apt-get update
   $ sudo apt-get install ros-kinetic-turtlebot*
   ~~~
   </br>
 + Setup packages
-  ~~~
+  ~~~shell
   $ source /opt/ros/kinetic/setup.bash && source ~/catkin_ws/devel/setup.bash
   ~~~
   </br>
 + Start robot after turn on the robot
-  ~~~
+  ~~~shell
   $ roslaunch turtlebot_bringup minimal.launch
   ~~~
   Then you can hear the beep sound from robot
