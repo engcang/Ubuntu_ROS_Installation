@@ -21,4 +21,4 @@
   Then you can hear the beep sound from robot
   </br>
 
-## + [Robot tutorial](https://github.com/engcang/turtlebot2) 
+## ● [Robot tutorial here](https://github.com/engcang/turtlebot2) 
