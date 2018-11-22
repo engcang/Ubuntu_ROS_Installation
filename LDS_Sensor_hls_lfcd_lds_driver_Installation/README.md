@@ -25,11 +25,11 @@
   ~~~shell
   $ roslaunch hls_lfcd_lds_driver view_hlds_laser.launch
   ~~~
-  <br>
+
 <p align="center">
   <img src="https://github.com/engcang/image-files/blob/master/hls_rviz.png" width="500"/>
 </p>
-
+<br>
 ## ● [Using LDS sensor tutorial for Turtlebot2 here](https://github.com/engcang/turtlebot2) or [Turtlebot3 here]()
 
 
