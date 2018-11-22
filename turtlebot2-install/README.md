@@ -18,8 +18,7 @@
   ~~~
   $ roslaunch turtlebot_bringup minimal.launch
   ~~~
-  </br>
   Then you can hear the beep sound from robot
+  </br>
 
-## Editing script file
-+ use **vi** or **gedit** to edit **mason.sh** file to add packages or programs you want to install
+## [Robot tutorial](https://github.com/engcang/turtlebot2)
