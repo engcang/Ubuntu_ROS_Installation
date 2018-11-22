@@ -25,3 +25,8 @@
   $ ./mason.sh
   ~~~
   Then type password it automatically **ROS-kinetic-desktop-full version** and setup **catkin_ws** workspace and catkin_make
+  </br>
+
+
+# Editing script file
++ use **vi** or **gedit** to edit **mason.sh** file to add packages or programs you want to install
