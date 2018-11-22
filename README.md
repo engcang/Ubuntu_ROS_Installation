@@ -5,8 +5,8 @@
 
 ## Ubuntu(Linux OS) installation
 + [Ubuntu release download](http://old-releases.ubuntu.com/releases/)
-+ [Ubuntu Mate download](https://ubuntu-mate.org/download/)
-+ [Ubuntu 16.04 LTS](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0)
++ [Ubuntu-Mate download](https://ubuntu-mate.org/download/)
++ [Ubuntu Install Guide](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0)
 </br>
 
 ## ROS insatllation
