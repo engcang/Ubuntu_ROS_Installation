@@ -5,7 +5,7 @@
 
 ## Using script file and git
 + Install git first
-  ~~~terminal
+  ~~~shell
   $ sudo apt-get update
   $ sudo apt-get install git
   ~~~
