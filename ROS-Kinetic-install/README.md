@@ -5,7 +5,7 @@
 
 ## Using script file and git
 + Install git first
-  ~~~shell
+  ~~~python
   $ sudo apt-get update
   $ sudo apt-get install git
   ~~~
@@ -13,6 +13,8 @@
   </br>
 + Git clone mason.sh file
   ~~~
+  $ cd
+  $ git clone 
   ~~~
   
   </br>
