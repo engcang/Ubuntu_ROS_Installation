@@ -16,7 +16,7 @@
 ## Packages installation
 + [Turtlebot2](https://github.com/engcang/Ubuntu_ROS_Installation/tree/master/turtlebot2-install)
 + [Turtlebot3](https://github.com/engcang/Ubuntu_ROS_Installation/tree/master/turtlebot3-install)
-+ [Husky]()
++ [Husky](https://github.com/engcang/husky/tree/master/Husky_custom_board_install_Kinetic)
 + [LDS Sensor ( hls_lfcd_lds_driver )](https://github.com/engcang/Ubuntu_ROS_Installation/tree/master/LDS_Sensor_hls_lfcd_lds_driver_Installation)
 + [Velodyne VLP-16 LiDAR](http://wiki.ros.org/velodyne/Tutorials/Getting%20Started%20with%20the%20Velodyne%20VLP16)
 + [ZED stereo camera](https://www.stereolabs.com/docs/getting-started/installation/) and [ROS for ZED](https://www.stereolabs.com/docs/ros/)
