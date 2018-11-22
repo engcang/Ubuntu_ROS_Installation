@@ -10,7 +10,7 @@
 </br>
 
 ## ROS insatllation
-+ [ROS-Kinetic install shell script file](https://github.com/engcang/Ubuntu_ROS_Installation/tree/master/ROS-Kinetic-install)
++ [ROS-Kinetic install and install shell script file](https://github.com/engcang/Ubuntu_ROS_Installation/tree/master/ROS-Kinetic-install)
 </br>
 
 ## Packages installation
