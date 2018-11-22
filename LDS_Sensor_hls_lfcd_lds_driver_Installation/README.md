@@ -22,6 +22,6 @@
   ~~~
   </br>
 
-## ● [Using LDS sensor tutorial here](https://github.com/engcang/turtlebot2) or [here]()
+## ● [Using LDS sensor tutorial for Turtlebot2 here](https://github.com/engcang/turtlebot2) or [Turtlebot3 here]()
 
 
