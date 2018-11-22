@@ -5,21 +5,21 @@
 
 ## Using script file and git
 + Install git first
-  ~~~
+  ~~~shell
   $ sudo apt-get update
   $ sudo apt-get install git
   ~~~
   
   </br>
 + Git clone mason.sh file
-  ~~~
+  ~~~shell
   $ cd
   $ git clone https://github.com/engcang/Ubuntu_ROS_Installation.git
   ~~~
   
   </br>
 + Run script file
-  ~~~
+  ~~~shell
   $ cd Ubuntu_ROS_Installation/ROS-Kinetic-install/
   $ chmod +x mason.sh
   $ ./mason.sh
